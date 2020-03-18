@@ -1,0 +1,177 @@
+{
+    "state_wise_data": [
+        {
+            "name": "Andhra Pradesh",
+            "confirmed_indian": 1,
+            "confirmed_foreign": 0,
+            "cured_discharged": 0,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "AP",
+            "latitude": 14.7504291,
+            "longitude": 78.57002559
+        },
+        {
+            "name": "Delhi",
+            "confirmed_indian": 8,
+            "confirmed_foreign": 0,
+            "cured_discharged": 2,
+            "death": 1,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "DL",
+            "latitude": 28.6699929,
+            "longitude": 77.23000403
+        },
+        {
+            "name": "Haryana",
+            "confirmed_indian": 1,
+            "confirmed_foreign": 14,
+            "cured_discharged": 0,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "HR",
+            "latitude": 28.45000633,
+            "longitude": 77.01999101
+        },
+        {
+            "name": "Karnataka",
+            "confirmed_indian": 11,
+            "confirmed_foreign": 0,
+            "cured_discharged": 0,
+            "death": 1,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "KA",
+            "latitude": 12.57038129,
+            "longitude": 76.91999711
+        },
+        {
+            "name": "Kerala",
+            "confirmed_indian": 24,
+            "confirmed_foreign": 2,
+            "cured_discharged": 3,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "KL",
+            "latitude": 8.900372741,
+            "longitude": 76.56999263
+        },
+        {
+            "name": "Maharashtra",
+            "confirmed_indian": 36,
+            "confirmed_foreign": 3,
+            "cured_discharged": 0,
+            "death": 1,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "MH",
+            "latitude": 19.25023195,
+            "longitude": 73.16017493
+        },
+        {
+            "name": "Odisha",
+            "confirmed_indian": 1,
+            "confirmed_foreign": 0,
+            "cured_discharged": 0,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "OR",
+            "latitude": 19.82042971,
+            "longitude": 85.90001746
+        },
+        {
+            "name": "Punjab",
+            "confirmed_indian": 1,
+            "confirmed_foreign": 0,
+            "cured_discharged": 0,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "PB",
+            "latitude": 31.51997398,
+            "longitude": 75.98000281
+        },
+        {
+            "name": "Rajasthan",
+            "confirmed_indian": 2,
+            "confirmed_foreign": 2,
+            "cured_discharged": 3,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "RJ",
+            "latitude": 26.44999921,
+            "longitude": 74.63998124
+        },
+        {
+            "name": "Tamil Nadu",
+            "confirmed_indian": 1,
+            "confirmed_foreign": 0,
+            "cured_discharged": 0,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "TN",
+            "latitude": 11.059821,
+            "longitude": 78.387451
+        },
+        {
+            "name": "Telengana",
+            "confirmed_indian": 3,
+            "confirmed_foreign": 2,
+            "cured_discharged": 1,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "TG",
+            "latitude": 12.92038576,
+            "longitude": 79.15004187
+        },
+        {
+            "name": "Union Territory of Jammu and Kashmir",
+            "confirmed_indian": 3,
+            "confirmed_foreign": 0,
+            "cured_discharged": 0,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "AN",
+            "latitude": 11.66702557,
+            "longitude": 92.73598262
+        },
+        {
+            "name": "Union Territory of Ladakh",
+            "confirmed_indian": 6,
+            "confirmed_foreign": 0,
+            "cured_discharged": 0,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "LA",
+            "latitude": 34.0,
+            "longitude": 78.0
+        },
+        {
+            "name": "Uttar Pradesh",
+            "confirmed_indian": 14,
+            "confirmed_foreign": 1,
+            "cured_discharged": 5,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "UP",
+            "latitude": 27.59998069,
+            "longitude": 78.05000565
+        },
+        {
+            "name": "Uttarakhand",
+            "confirmed_indian": 1,
+            "confirmed_foreign": 0,
+            "cured_discharged": 0,
+            "death": 0,
+            "last_updated": "2020-03-17T17:15:00+0530",
+            "state_code": "UT",
+            "latitude": 30.32040895,
+            "longitude": 78.05000565
+        }
+    ],
+    "last_updated": {
+        "date": "17-03-2020",
+        "time": "05:15",
+        "period": "PM",
+        "tz": "+0530"
+    },
+    "total_airport_screening": 1354858,
+    "current_active": 120
+}
