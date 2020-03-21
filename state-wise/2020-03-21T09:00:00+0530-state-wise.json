@@ -230,6 +230,17 @@
             "state_code": "UT",
             "latitude": 30.32040895,
             "longitude": 78.05000565
+        },
+        {
+            "name": "West Bengal",
+            "confirmed_indian": 2,
+            "confirmed_foreign": 0,
+            "cured_discharged": 0,
+            "death": 0,
+            "last_updated": "2020-03-21T09:00:00+0530",
+            "state_code": "WB",
+            "latitude": 22.58039044,
+            "longitude": 88.32994665
         }
     ],
     "last_updated": {
