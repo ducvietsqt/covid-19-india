@@ -177,29 +177,29 @@
             "longitude": 79.15004187
         },
         {
-            "name": "Union Territory of Chandigarh",
+            "name": "Chandigarh",
             "confirmed_indian": 1,
             "confirmed_foreign": 0,
             "cured_discharged": 0,
             "death": 0,
             "last_updated": "2020-03-21T09:00:00+0530",
-            "state_code": "AN",
-            "latitude": 11.66702557,
-            "longitude": 92.73598262
+            "state_code": "CH",
+            "latitude": 30.71999697,
+            "longitude": 76.78000565
         },
         {
-            "name": "Union Territory of Jammu and Kashmir",
+            "name": "Jammu and Kashmir",
             "confirmed_indian": 4,
             "confirmed_foreign": 0,
             "cured_discharged": 0,
             "death": 0,
             "last_updated": "2020-03-21T09:00:00+0530",
-            "state_code": "AN",
-            "latitude": 11.66702557,
-            "longitude": 92.73598262
+            "state_code": "JK",
+            "latitude": 34.29995933,
+            "longitude": 74.46665849
         },
         {
-            "name": "Union Territory of Ladakh",
+            "name": "Ladakh",
             "confirmed_indian": 13,
             "confirmed_foreign": 0,
             "cured_discharged": 0,
