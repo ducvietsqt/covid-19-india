@@ -59,7 +59,7 @@
             "name": "Haryana",
             "confirmed_indian": 12,
             "confirmed_foreign": 14,
-            "cured_discharged": 0,
+            "cured_discharged": 11,
             "death": 0,
             "last_updated": "2020-03-23T18:00:00+0530",
             "state_code": "HR",
@@ -247,7 +247,7 @@
             "confirmed_indian": 7,
             "confirmed_foreign": 0,
             "cured_discharged": 0,
-            "death": 0,
+            "death": 1,
             "last_updated": "2020-03-23T18:00:00+0530",
             "state_code": "WB",
             "latitude": 22.58039044,
@@ -261,8 +261,8 @@
         "tz": "+0530"
     },
     "total_airport_screening": 1517327,
-    "current_active": 402,
-    "total_cured_discharged": 23,
-    "total_deaths": 7,
+    "current_active": 424,
+    "total_cured_discharged": 34,
+    "total_deaths": 8,
     "total_migrated_patients": 1
 }
