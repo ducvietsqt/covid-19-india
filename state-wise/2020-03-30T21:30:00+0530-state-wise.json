@@ -291,7 +291,7 @@
             "confirmed_indian": 22,
             "confirmed_foreign": 0,
             "cured_discharged": 0,
-            "death": 1,
+            "death": 2,
             "last_updated": "2020-03-30T21:30:00+0530",
             "state_code": "WB",
             "latitude": 22.58039044,
