@@ -1,3 +1,6 @@
+** Archived in favour of https://github.com/covid19india **
+The good folks at covid19india are doing a great job at maintaining the stats. MoHFW changes their site structure way too frequently and scraper has to always catch up.
+
 # covid-19-india
 COVID-19 Indian State Wise Time Series Data [Refreshed Every 30 Minutes] 
 
